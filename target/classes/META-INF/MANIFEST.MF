@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: com.myproject.mybasket.app
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Steven
+Implementation-Vendor-Id: com.myproject.mybasket
+Build-Jdk: 1.8.0_131
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/com.myproject.mybasket.app
+Created-By: Maven Integration for Eclipse
+
